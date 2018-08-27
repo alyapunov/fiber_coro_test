@@ -4,6 +4,7 @@
 #include <iostream>
 #include <vector>
 
+#include <boost/context/continuation.hpp>
 #include <boost/fiber/all.hpp>
 
 #include "coro.h"
